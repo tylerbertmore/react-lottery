@@ -12,3 +12,5 @@ class Ball extends Component{
     )
   }
 }
+
+export default Ball
